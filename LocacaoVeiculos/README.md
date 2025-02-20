@@ -27,6 +27,8 @@ O sistema foi projetado seguindo os princípios da **Análise Orientada a Objeto
 - UML para modelagem 🏗
 - Análise Orientada a Objetos 🧩
 
+- ![Descrição da Imagem](https://github.com/BrunoAmericano/Diagrama-de-classes/blob/main/LocacaoVeiculos/Untitled%20diagram-2025-02-20-105424.png?raw=true)
+
 ## 📜 Como Usar
 
 1️⃣ Clone este repositório 🛠
