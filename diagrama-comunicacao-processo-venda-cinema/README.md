@@ -50,7 +50,7 @@ Este diagrama mostra a **interação dos objetos** com base nas seguintes entida
 
 ## 📷 Diagrama de Comunicação
 
-![Diagrama de Comunicação de Venda de Ingressos de Cinema](https://via.placeholder.com/800x400?text=Diagrama+de+Comunica%C3%A7%C3%A3o+de+Venda+de+Ingressos)
+![Diagrama de Comunicação de Venda de Ingressos de Cinema](https://github.com/BrunoAmericano/Diagramas/blob/main/diagrama-comunicacao-processo-venda-cinema/Untitled%20diagram-2025-02-20-191846.png?raw=true)
 
 > O diagrama acima ilustra o fluxo de mensagens entre os componentes do sistema durante o processo de venda de ingressos.
 
