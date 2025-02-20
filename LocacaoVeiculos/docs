@@ -1,0 +1,63 @@
+Documentação do Sistema de Locação de Veículos
+1. Introdução
+O Sistema de Locação de Veículos foi desenvolvido com o objetivo de gerenciar a frota de automóveis de uma empresa fictícia, controlar o processo de locação e armazenar informações detalhadas sobre os clientes e as locações realizadas.
+
+2. Objetivos do Sistema
+Facilitar o gerenciamento da frota de veículos.
+
+Automatizar o processo de locação e devolução dos veículos.
+
+Armazenar dados relevantes sobre os clientes e histórico de locações.
+
+Fornecer informações precisas sobre a disponibilidade dos veículos.
+
+3. Diagrama de Classes
+Apresentação do Diagrama de Classes
+O diagrama de classes representa a estrutura do sistema, ilustrando as principais classes e suas relações.
+
+Explicação das Classes
+Automóvel
+
+Atributos: número da placa, cor, ano, tipo de combustível, número de portas, quilometragem, RENAVAM, chassi, valor de locação.
+
+Modelo
+
+Atributos: nome do modelo.
+
+Relacionamentos: um modelo pode estar associado a muitos automóveis.
+
+Marca
+
+Atributos: nome da marca.
+
+Relacionamentos: uma marca pode estar associada a muitos modelos.
+
+Cliente
+
+Atributos: nome, CPF, telefone, endereço.
+
+Locação
+
+Atributos: data e hora da locação, data e hora de devolução, status da locação (ativa ou concluída).
+
+Relacionamentos: uma locação está associada a um automóvel e a um cliente.
+
+4. Relatório
+Introdução
+O relatório tem como objetivo apresentar o desenvolvimento do sistema de locação de veículos, destacando o processo de criação do diagrama de classes e a importância do sistema no contexto da empresa.
+
+Métodos
+Levantamento de Requisitos: Identificação das necessidades da empresa e especificação dos atributos e métodos das classes.
+
+Ferramentas Utilizadas: Software de modelagem UML (Visual Paradigm).
+
+Processo de Desenvolvimento: Etapas para identificação e definição das classes, atributos e métodos, bem como as relações entre elas.
+
+Resultados
+O diagrama de classes fornece uma visão clara da estrutura do sistema de locação de veículos. Cada classe e relacionamento foram cuidadosamente definidos para atender aos requisitos levantados.
+
+Conclusão
+O desenvolvimento do diagrama de classes é essencial para a organização e gerenciamento eficiente da frota de automóveis e do processo de locação. A estrutura proposta permite um controle preciso das informações dos veículos, clientes e locações, facilitando a operação da empresa.
+
+5. Referências
+Tele Aulas onde foi explicado como mexer na ferramenta Visual Paradigm
