@@ -42,7 +42,7 @@ O diagrama de máquina de estados é composto por **estados** e **transições**
 
 Abaixo está uma representação visual do **Diagrama de Máquina de Estados**:
 
-![Diagrama de Máquina de Estados](https://via.placeholder.com/800x400?text=Diagrama+de+M%C3%A1quina+de+Estados)
+![Diagrama de Máquina de Estados](https://github.com/BrunoAmericano/Diagramas/blob/main/diagrama-maquina/Untitled%20diagram-2025-02-20-194349.png?raw=true)
 
 > **Nota:** A imagem do diagrama é uma representação visual do processo de venda de ingressos, com estados e transições.
 
