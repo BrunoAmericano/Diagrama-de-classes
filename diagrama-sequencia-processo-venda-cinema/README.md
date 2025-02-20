@@ -17,7 +17,7 @@ Este projeto foi criado para gerenciar a venda de ingressos em um cinema, oferec
 
 ## 📸 Captura de Tela
 
-![Sistema de Ingressos](https://via.placeholder.com/600x300?text=Imagem+da+Interface)
+![Sistema de Ingressos](https://github.com/BrunoAmericano/Diagramas/blob/main/diagrama-sequencia-processo-venda-cinema/Untitled%20diagram-2025-02-20-185456.png?raw=true)
 
 ---
 
