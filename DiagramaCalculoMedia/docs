@@ -1,0 +1,21 @@
+# Manual do Usuário
+
+## Introdução
+Este manual fornece instruções detalhadas sobre como utilizar o diagrama de blocos para o cálculo de médias.
+
+## Passos para Utilização
+1. **Iniciar o Diagrama:**
+   - Abra o software de diagramação e carregue o diagrama de blocos fornecido.
+   
+2. **Inserir Notas:**
+   - Insira as duas notas de provas nos campos designados.
+   
+3. **Calcular a Média:**
+   - O diagrama calculará automaticamente a média das duas notas.
+
+4. **Verificar Resultado:**
+   - O diagrama exibirá a média calculada e indicará se o aluno foi aprovado ou reprovado.
+
+## Notas Finais
+- Certifique-se de inserir notas válidas (0-10).
+- Verifique se o diagrama foi carregado corretamente antes de iniciar o processo.
